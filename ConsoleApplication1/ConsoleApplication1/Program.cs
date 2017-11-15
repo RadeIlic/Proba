@@ -18,6 +18,7 @@ namespace ConsoleApplication1
         static void printf()
         {
             Console.WriteLine("Ispis printf");
+            Console.WriteLine("Ispis printf");
         }
     }
 }
