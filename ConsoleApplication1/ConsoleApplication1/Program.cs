@@ -12,6 +12,8 @@ namespace ConsoleApplication1
         {
             Console.Write("Press any key to continue4");
             Console.WriteLine("...");
+            Console.WriteLine("...");
+
             Console.Read();
         }
 
