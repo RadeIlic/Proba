@@ -10,7 +10,8 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Press any key to continue...");
+            Console.Write("Press any key to continue");
+            Console.WriteLine("...");
             Console.Read();
         }
     }
