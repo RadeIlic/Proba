@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.Write("Press any key to continue4");
-            Console.WriteLine("...");
+            Console.WriteLine("...3");
             Console.WriteLine("...");
 
             Console.Read();
@@ -20,7 +20,7 @@ namespace ConsoleApplication1
         static void printf()
         {
             Console.WriteLine("Ispis printf");
-            Console.WriteLine("Ispis printf");
+            Console.WriteLine("Ispis printf3");
         }
     }
 }
