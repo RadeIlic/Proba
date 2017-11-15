@@ -14,5 +14,10 @@ namespace ConsoleApplication1
             Console.WriteLine("...");
             Console.Read();
         }
+
+        static void printf()
+        {
+            Console.WriteLine("Ispis printf");
+        }
     }
 }
