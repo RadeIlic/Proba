@@ -13,5 +13,10 @@ namespace ConsoleApplication1
             Console.WriteLine("Press any key to continue...");
             Console.Read();
         }
+
+        static void printf()
+        {
+            Console.WriteLine("Ispis printf");
+        }
     }
 }
